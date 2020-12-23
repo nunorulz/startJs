@@ -1,0 +1,59 @@
+/*console.log({
+  nome: "Bruno",
+  idade: 34,
+  andar: function(){
+    console.log('andar')
+  }
+})*/
+//console.log('Bruno Rocha')
+
+/*var clima = 'Quente'
+console.log(clima)*/
+
+//var name = "Bruno"
+//console.log(typeof name)
+
+//const sayMyName = () => {
+//  console.log('Bruno')
+//}
+
+//callback funtion
+
+/*function sayMyName(name){
+  console.log(name)
+}
+
+sayMyName(
+  () => {
+    console.log('estou em uma callback')
+  }
+)*/
+
+//Função construtora
+
+/*function Person(name){
+  this.name = name
+  this.walk = function(){
+    return this.name + " está andando"
+  }
+
+}
+
+const Bruno = new Person("Bruno")
+const Rocha = new Person("Rocha")
+console.log(Bruno.walk())
+console.log(Rocha.walk())
+
+let string = '123'
+console.log(Number(string))
+let number = 321
+console.log(String(number))*/
+
+let word = 'umapalavramuitogrande'
+console.log(word.length)
+let number = 1234
+console.log(String(number).length)
+
+
+
+
