@@ -49,10 +49,34 @@ console.log(Number(string))
 let number = 321
 console.log(String(number))*/
 
-let word = 'umapalavramuitogrande'
-console.log(word.length)
-let number = 1234
-console.log(String(number).length)
+// let word = 'umapalavramuitogrande'
+// console.log(word.length)
+// let number = 1234
+// console.log(String(number).length)
+
+// let number = 354584.2658
+// console.log(number.toFixed(2).replace(".",","))
+
+// function greetMe(nome) {
+//   alert("Olá, " + nome);
+// }
+
+// greetMe("Bruno"); // "Olá, mundo"
+
+// let word = "Programar é muito bacana!"
+// console.log(word.toUpperCase().toLocaleLowerCase())
+
+// let phrase = 'Eu quero viver o amor!'
+// console.log(phrase.includes("amor!"))
+
+// let texto = 'Eu quero viver o amor!'
+// let myArray = texto.split(' ')
+// let textoComUnderline = myArray.join('_')
+// console.log(textoComUnderline.toUpperCase())
+
+//Cria um Array vazio
+// let myArray = new Array(10)
+// console.log(myArray)
 
 
 
