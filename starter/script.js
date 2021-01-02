@@ -78,6 +78,19 @@ console.log(String(number))*/
 // let myArray = new Array(10)
 // console.log(myArray)
 
+//New
+// let name = new String ('Bruno')
+// name.surName = 'Rocha'
+// let age = new Number(34)
 
+// let date = new Date('2020-12-01')
+// console.log(date)
 
+//operadores unarios
+let person = {
+  name: 'Bruno',
+  age: 34
+}
 
+delete person.age
+console.log(person)
